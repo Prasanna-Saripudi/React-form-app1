@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React-form-app1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build to create a simple react form along with validation.
+This project was bootstrapped with Create React App.
 
 ## Available Scripts
 
